@@ -1,1 +1,1 @@
-# 3D_Few_shot
+# 3D Model Classification based on Few-Shot Learning
