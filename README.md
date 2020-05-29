@@ -1,6 +1,6 @@
-# 3D Model Classification based on Few-Shot Learning
+# 3D Model Recognition based on two layers Few-Shot Learning Network
 
-Implementation of the paper:  <a href="/pdf/draft.pdf">3D Model Classification based on Few-Shot Learning</a>. The code is coming.
+Implementation of the paper:  <a href="/pdf/draft.pdf">3D Model Recognition based on two layers Few-Shot Learning Network</a>. The code is coming.
 
 ## 1. Abstract
 With the development of multimedia technology, 3D model has been applied in many fields such as mechanical design, construction industry, entertainment industry, medical treatment and so on. The number of 3D model is becoming more and more in our lives. Therefore, effective automatic management and classification of 3D models become more and more important. In this paper, we propose a dual-meta-learner model based on LSTM to learn the exact optimization algorithm used to train another two learner neural network classifier in the few-shot regime. The parametrization of our model allows it to learn appropriate parameter updates specifically for the scenario where a set amount of updates will be made, while it can also achieve a general initialization of the learner (classifier) network that allows for quick convergence of training. Our method attains state-of-the-art performance by significant margins.
